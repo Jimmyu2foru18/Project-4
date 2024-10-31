@@ -20,8 +20,8 @@ A basic HTTP/1.0 server with HTTP/1.1 support, implementing core functionality a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/simple-http-server.git
-   cd simple-http-server
+   git clone https://github.com/Jimmyu2foru18/Project-4.git
+   cd Project-4
    ```
 
 2. Build the project:
@@ -33,7 +33,7 @@ A basic HTTP/1.0 server with HTTP/1.1 support, implementing core functionality a
 3. Run the server:
 
    ```bash
-   java -jar target/simple-http-server.jar [port]
+   java -jar target/Project-4.jar [port]
    ```
    Default port is 8080 if not specified.
 
@@ -55,7 +55,4 @@ Server configuration can be modified in `config.properties`:
 - `threads`: Number of worker threads (default: 10)
 
 
-
-
-"# Project-4" 
 "# Project-4" 
